@@ -1,0 +1,14 @@
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.deps.json
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.runtimeconfig.json
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.runtimeconfig.dev.json
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.dll
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachine.pdb
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.csprojAssemblyReference.cache
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.AssemblyInfo.cs
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.dll
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.pdb
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachineLibrary.dll
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp2.2\CoffeeMachineLibrary.pdb
+C:\Users\Maria.Benedict\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp2.2\CoffeeMachine.csproj.CopyComplete
